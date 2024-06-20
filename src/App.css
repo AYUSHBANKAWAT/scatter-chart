@@ -1,0 +1,24 @@
+
+#root {
+  text-align: center;
+  background-color: white;
+}
+.tick line{
+  stroke: #C0C0BB;
+
+}
+
+.tick text{
+  fill:slategray;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bars{
+  /* fill: cadetblue;
+  stroke: black; */
+
+background: none;
+}
+.graph{
+  background-color: bisque;
+  background: #C0C0BB;
+}
